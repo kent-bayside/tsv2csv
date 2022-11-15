@@ -1,5 +1,5 @@
-# Convertor
-CUI tool to convert tsv files to csv files or csv files to tsv files.
+# TSV to CSV Convertor
+This is a CUI tool to convert tsv files to csv files or csv files to tsv files.
 
 ## Usage
 ```
